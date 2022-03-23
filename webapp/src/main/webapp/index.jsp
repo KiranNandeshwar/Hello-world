@@ -1,1 +1,1 @@
-Wellcome ti Tomcat VM through PollSCM using Jenkin
+Wellcome to Tomcat VM through PollSCM using Jenkin
